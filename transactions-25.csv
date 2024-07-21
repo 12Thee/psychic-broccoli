@@ -1,0 +1,27 @@
+Date,Type,Transaction ID,Received Quantity,Received Currency,Received Cost Basis (USD),Received Wallet,Received Address,Received Comment,Sent Quantity,Sent Currency,Sent Cost Basis (USD),Sent Wallet,Sent Address,Sent Comment,Fee Amount,Fee Currency,Fee Cost Basis (USD),Realized Return (USD),Fee Realized Return (USD),Transaction Hash
+06/15/2024 09:28:09,STAKE,01901c3a-80c0-7834-abcd-1d5302db4d02,0.00000590,BTC,...,Coinbase BTC Wallet,,,0.78009500,USDC,...,Coinbase USDC Wallet,,,,,...,...,...,
+05/29/2024 18:46:05,ADD_LIQUIDITY,018fc5d2-2de5-7ad0-a96e-8a11d750cca9,0.01015382,USDC,...,Coinbase USDC Wallet,,,0.00005976,SOL,...,Coinbase SOL Wallet,,,0.00008123,USDC,...,...,...,
+05/22/2024 10:52:08,MARGIN,018fa1ea-562a-7508-b505-6e2237671234,0.00007968,USDC,...,Coinbase USDC Wallet,,,0.00001047,DOT,...,Coinbase DOT Wallet,,,0.00000048,USDC,...,...,...,
+04/20/2024 11:36:44,MINED,019060f5-88f6-7189-b0b8-a25690a03878,0.00018200,USDC,...,Coinbase USDC Wallet,,,,,...,,,,,,...,...,...,
+04/01/2024 12:14:42,LENDING_WITHDRAWAL,018f2b1a-8edb-7624-b228-d465bfa8a779,0.00001500,USDC,...,Coinbase USDC Wallet,,"Received USDC
+From Coinbase Stablecoin Tokenizer",,,...,,,,,,...,...,...,
+04/01/2024 12:14:38,LENDING_WITHDRAWAL,018f2b1a-aaea-7a63-93e9-292c99ca8440,0.00000014,BTC,...,Coinbase BTC Wallet,,,0.00974641,USDC,...,Coinbase USDC Wallet,,,0.00005848,USDC,...,...,...,
+03/31/2024 00:17:35,LENDING_WITHDRAWAL,018f2b1a-8ed8-7ea1-b414-b250a0928aa8,0.00152900,USDC,...,Coinbase USDC Wallet,,"Received USDC
+From Coinbase Stablecoin Tokenizer",,,...,,,,,,...,...,...,
+03/31/2024 00:17:30,LENDING_WITHDRAWAL,018f2b1a-aaf0-7b6c-a23f-1c61d48a0213,0.61155211,USDC,...,Coinbase USDC Wallet,,,0.00000875,BTC,...,Coinbase BTC Wallet,,,0.00611552,USDC,...,...,...,
+03/31/2024 00:10:22,LENDING_WITHDRAWAL,018f2b1a-8ed5-740b-a5c8-e8694e324871,0.00025800,USDC,...,Coinbase USDC Wallet,,"Received USDC
+From Coinbase Stablecoin Tokenizer",,,...,,,,,,...,...,...,
+03/31/2024 00:10:21,TRADE,019060f5-90e6-73a3-b8f8-5494ecc4f5a8,0.17223992,USDC,...,Coinbase USDC Wallet,,,0.00000247,BTC,...,Coinbase BTC Wallet,,,0.00103344,USDC,...,...,...,
+03/08/2024 12:01:15,INTEREST_PAYMENT,019060f5-88f3-7df9-a051-250aed43a139,0.00112200,USDC,...,Coinbase USDC Wallet,,,,,...,,,,,,...,...,...,
+02/15/2024 19:06:21,SELL,019060f5-9042-7495-9fb4-06af65f03d71,2.92000000,USD,...,Coinbase Cash (USD),,,2.92158000,USDC,...,Coinbase USDC Wallet,,,,,...,...,...,
+02/15/2024 19:04:46,TRADE,019060f5-908a-780a-8eda-b4ab3fe23086,2.92158000,USDC,...,Coinbase USDC Wallet,,,63.73845961,VET,...,Coinbase VET Wallet,,,,,...,...,...,
+02/14/2024 22:02:56,TRADE,018daecb-c798-7af1-b089-dc17289dc1aa,2.69000000,USD,...,Coinbase Cash (USD),,"Sold USDC
+Using STRIDE BANK, NATIONAL ... ********4774",2.69000000,USDC,...,Coinbase USDC Wallet,,"Sold USDC
+Using STRIDE BANK, NATIONAL ... ********4774",,,...,...,...,
+02/14/2024 22:01:17,TRADE,018daecb-c791-7c3a-ae94-18df81ab580e,2.69000000,USDC,...,Coinbase USDC Wallet,,"Bought USDC
+Using Cash (USD)",2.69000000,USD,...,Coinbase Cash (USD),,"Bought USDC
+Using Cash (USD)",,,...,...,...,
+02/10/2024 18:23:23,ADD_LIQUIDITY,018daecb-c768-7398-8339-1ea7005e9558,0.02505117,SOL,...,Coinbase SOL Wallet,,"Converted to Solana
+Using USDC Wallet",2.74753100,USDC,...,Coinbase USDC Wallet,,"Converted to Solana
+Using USDC Wallet",,,...,...,...,
+02/07/2024 14:38:59,TRADE,019060f5-907e-70f3-a8d1-3c2f52651244,2.74753100,USDC,...,Coinbase USDC Wallet,,,42.08163838,VARA,...,Coinbase VARA Wallet,,,,,...,...,...,
